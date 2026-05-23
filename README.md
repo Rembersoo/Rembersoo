@@ -7,7 +7,7 @@
 
 <br/>
 
-**Full Stack Developer transitioning into AI/ML — I build end-to-end products, from scalable APIs to RAG-powered LLM applications.**
+**Full Stack Developer with M.S. in Data Science â I build end-to-end products, from scalable APIs to RAG-powered LLM applications.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivani-rembersoo)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srivani.rembersoo@gmail.com)
@@ -18,13 +18,13 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## ðââï¸ About Me
 
-I'm a Full Stack Developer with hands-on experience building REST APIs, RAG chatbots, and ML-powered applications. I recently expanded into AI/ML — deploying production-grade LLM pipelines with LangChain, ChromaDB, and LLaMA 3. I care about clean architecture, real-world problem solving, and shipping things that actually work. Currently targeting **Software Engineering** and **AI/ML Engineering** roles where I can contribute across the full stack.
+I'm a Full Stack Developer with hands-on experience building REST APIs, RAG chatbots, and ML-powered applications. I recently expanded into AI/ML â deploying production-grade LLM pipelines with LangChain, ChromaDB, and LLaMA 3. I care about clean architecture, real-world problem solving, and shipping things that actually work. Currently targeting **Software Engineering** and **AI/ML Engineering** roles where I can contribute across the full stack.
 
 ---
 
-## 🛠️ Tech Stack
+## ð ï¸ Tech Stack
 
 **Languages**
 
@@ -58,7 +58,7 @@ I'm a Full Stack Developer with hands-on experience building REST APIs, RAG chat
 
 ---
 
-## 📊 GitHub Stats
+## ð GitHub Stats
 
 <div align="center">
 
@@ -70,18 +70,18 @@ I'm a Full Stack Developer with hands-on experience building REST APIs, RAG chat
 
 ---
 
-## 🚀 Featured Projects
+## ð Featured Projects
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| 🤖 **pdf-chat-rag** | RAG chatbot — chat with any PDF using LLaMA 3 + LangChain | Python · LangChain · ChromaDB · Groq · Streamlit | [Repo](https://github.com/Rembersoo/pdf-chat-rag) |
-| 🌐 **website-Chatbot** | Paste a URL and chat with any webpage in real time | Python · LangChain · ChromaDB · LLaMA 3 · Streamlit | [Repo](https://github.com/Rembersoo/website-Chatbot) |
-| 📈 **salary-predictor-api** | ML REST API predicting Data Science salaries via Random Forest | Python · FastAPI · Docker · Railway | [Repo](https://github.com/Rembersoo/salary-predictor-api) |
-| 💬 **Chat-GPT-BOT-Application** | GPT-powered chat application built in Java | Java | [Repo](https://github.com/Rembersoo/Chat-GPT-BOT-Application) |
+| ð¤ **pdf-chat-rag** | RAG chatbot â chat with any PDF using LLaMA 3 + LangChain | Python Â· LangChain Â· ChromaDB Â· Groq Â· Streamlit | [Repo](https://github.com/Rembersoo/pdf-chat-rag) |
+| ð **website-Chatbot** | Paste a URL and chat with any webpage in real time | Python Â· LangChain Â· ChromaDB Â· LLaMA 3 Â· Streamlit | [Repo](https://github.com/Rembersoo/website-Chatbot) |
+| ð **salary-predictor-api** | ML REST API predicting Data Science salaries via Random Forest | Python Â· FastAPI Â· Docker Â· Railway | [Repo](https://github.com/Rembersoo/salary-predictor-api) |
+| ð¬ **Chat-GPT-BOT-Application** | GPT-powered chat application built in Java | Java | [Repo](https://github.com/Rembersoo/Chat-GPT-BOT-Application) |
 
 ---
 
-## 📬 Let's Connect
+## ð¬ Let's Connect
 
 I'm actively looking for **Software Engineering** and **AI/ML Engineering** roles. If you're hiring or want to collaborate, let's talk.
 
